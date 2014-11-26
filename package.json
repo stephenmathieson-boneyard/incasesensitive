@@ -1,0 +1,16 @@
+{
+  "name": "incasesensitive",
+  "version": "1.0.0",
+  "description": "incasesensitive property lookups",
+  "keywords": ["object", "case", "incasesensitive"],
+  "author": "Stephen Mathieson <me@stephenmathieson.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/stephenmathieson/incasesensitive.git"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "node test"
+  },
+  "license": "MIT"
+}
